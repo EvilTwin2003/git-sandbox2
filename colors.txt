@@ -3,3 +3,7 @@ blue
 yellow
 green
 pink
+pink
+black
+white
+add new feature!but incomplete!
